@@ -1,0 +1,10 @@
+.model-cache/
+.gradle/
+build/
+app/build/
+.DS_Store
+local.properties
+*.iml
+.gradle/
+.idea/
+*.log

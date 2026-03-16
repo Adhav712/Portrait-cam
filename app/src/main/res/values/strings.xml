@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portrait Cam</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="permission_denied">Camera and audio permissions are required</string>
+    <string name="recording_started">Recording started</string>
+    <string name="recording_stopped">Recording saved</string>
+</resources>
